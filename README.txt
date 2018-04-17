@@ -1,0 +1,1 @@
+Fix inconsistencies with Unicode when export from Reports.
